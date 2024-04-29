@@ -1,0 +1,1 @@
+I can just use a section to wrap both the header and hero and give them the padding and bg-color that they need.
